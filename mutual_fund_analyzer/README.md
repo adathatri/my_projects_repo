@@ -77,3 +77,32 @@ Here are some sample URLs:
 [Motilal Oswal Nifty Next 50 Index Fund](https://economictimes.indiatimes.com/motilal-oswal-nifty-next-50-index-fund-direct-plan/mffactsheet/schemeid-40469.cms?from=mdr)
 
 [SBI Nifty Next 50 Index Fund](https://economictimes.indiatimes.com/sbi-nifty-next-50-index-fund-direct-plan/mffactsheet/schemeid-41492.cms?from=mdr)
+
+# License and Contact Information
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), which means you can freely use, modify, and distribute the code as long as you include the original copyright and license notice. For more details, see the [LICENSE](LICENSE) file.
+
+If you're unsure about how to apply the license or have specific use cases in mind, feel free to contact me.
+
+---
+
+### License Summary:
+- **Free for personal and commercial use**
+- **Modifications and distribution allowed**
+- **Attribution required**
+
+Please refer to the full [MIT License](LICENSE) text for complete details.
+
+---
+
+## Contact Me
+
+If you have any questions, issues, suggestions or need a personalised data for a nominal amount, feel free to reach out to me! Here's how you can contact me:
+
+- **Email**: [anusha.dathatri@gmail.com](mailto:your-email@example.com)
+- **GitHub Issues**: If you're facing a bug or have a feature request, feel free to open an issue in the repository.
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/anusha-dathatri-03803695/)
+
+I’d love to hear from you, whether it's feedback on the project or just a casual conversation. Happy coding!
